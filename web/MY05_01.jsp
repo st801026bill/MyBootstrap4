@@ -38,7 +38,7 @@ and open the template in the editor.
                             </button>
                             
                             <!--導覽列的項目-->
-                            <div id="navbar" class="navbar-collapse collapse ">
+                            <div id="navbar" class="navbar-collapse collapse">
                                 <ul class="navbar-nav ml-auto">
                                     <form class="form-inline my-2 my-lg-0">
                                         <input type="email" placeholder="Email" size="40" class="form-control mr-sm-2">

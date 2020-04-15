@@ -29,7 +29,34 @@ and open the template in the editor.
                             </ol>
                     </nav>
                     
-                    
+                    <!--導覽列-->
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                        <!--導覽列的頁首-->
+                        <a class="navbar-brand" href="#">日光旅遊</a>
+                        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbar">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        
+                        <!--導覽列的項目-->
+                        <div id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li class="active"><a href="#">首頁</a></li>
+                                <li><a href="#">票券</a></li>
+                                <li><a href="#">訂房</a></li>
+                                <li class="dropdown">
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <!--輪播-->
+                    <div></div>
+                    <!--警報效果(三個)-->
+                    <div></div><div></div><div></div>
+                    <!--內容區-->
+                    <section></section>
+                    <!--頁尾-->
+                    <footer></footer>
             </div>
     </body>
 
