@@ -71,13 +71,17 @@
                                         </div>
                                 </li>
                                 <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="menu3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">3. BS Themes</a>
-                                        <div class="dropdown-menu" aria-labelledby="menu3">
-                                                <a class="dropdown-item active" href="MY04_01.jsp">8. 網格範例 (Basic Template)</a>
+                                        <a class="nav-link dropdown-toggle" href="#" id="menu4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">3. BS Themes</a>
+                                        <div class="dropdown-menu" aria-labelledby="menu4">
+                                                <a class="dropdown-item active" href="MY04_01.jsp">1. 網格範例 (Basic Template)</a>
                                         </div>
                                 </li>
                                 <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="menu4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">4. </a>
+                                        <a class="nav-link dropdown-toggle" href="#" id="menu5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">4. Layout</a>
+                                        <div class="dropdown-menu" aria-labelledby="menu5">
+                                                <a class="dropdown-item active" href="MY05_01.jsp">1. 切版範例(一)</a>
+                                                <a class="dropdown-item" href="MY05_02.jsp">1. 切版範例(二)</a>
+                                        </div>
                                 </li>
                         </ul>
                 </div>
