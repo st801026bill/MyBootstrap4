@@ -107,11 +107,9 @@ and open the template in the editor.
                     
                     <!--四、頁尾-->
                     <footer>
-                        <div class="container">
-                            <hr>
-                            <p>&copy; 2017 日光多媒體&middot;<a href="#">隱私權政策</a>&middot;<a href="#">服務條款</a></p>
-                            <p class="text-right"><a href="#">Back to top</a></p>
-                        </div>
+                        <hr>
+                        <p>&copy; 2017 日光多媒體&middot;<a href="#">隱私權政策</a>&middot;<a href="#">服務條款</a></p>
+                        <p class="text-right"><a href="#">Back to top</a></p>
                     </footer>
             </div>
     </body>

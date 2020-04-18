@@ -80,7 +80,8 @@
                                         <a class="nav-link dropdown-toggle" href="#" id="menu5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">4. Layout</a>
                                         <div class="dropdown-menu" aria-labelledby="menu5">
                                                 <a class="dropdown-item active" href="MY05_01.jsp">1. 切版範例(一)</a>
-                                                <a class="dropdown-item" href="MY05_02.jsp">1. 切版範例(二)</a>
+                                                <a class="dropdown-item" href="MY05_02.jsp">2. 切版範例(二)</a>
+                                                <a class="dropdown-item" href="MY05_03.jsp">3. 切版範例(三)</a>
                                         </div>
                                 </li>
                         </ul>
