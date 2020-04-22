@@ -31,6 +31,7 @@ and open the template in the editor.
                     
                     <!--一、導覽列-->
                     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                        <div class="container-fluid">
                             <!--導覽列的頁首 (包含網站名稱與導覽按鈕)-->
                             <a class="navbar-brand" href="#">日光多媒體</a>
                             <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbar">
@@ -47,6 +48,7 @@ and open the template in the editor.
                                     </form>
                                 </ul>
                             </div>
+                        </div>
                     </nav>
                     
                     

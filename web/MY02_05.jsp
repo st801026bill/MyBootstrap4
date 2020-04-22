@@ -23,7 +23,7 @@ and open the template in the editor.
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item">首頁</li>
                                 <li class="breadcrumb-item">BS基礎</li>
-                                <li class="breadcrumb-item active" aria-current="page">輸入 (Inputs)</li>
+                                <li class="breadcrumb-item active" aria-current="page">群組輸入 (Inputs Group)</li>
                             </ol>
                     </nav>
                 
