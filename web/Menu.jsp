@@ -82,6 +82,7 @@
                                                 <a class="dropdown-item active" href="MY05_01.jsp">1. 切版範例(一)</a>
                                                 <a class="dropdown-item" href="MY05_02.jsp">2. 切版範例(二)</a>
                                                 <a class="dropdown-item" href="MY05_03.jsp">3. 切版範例(三)</a>
+                                                <a class="dropdown-item" href="MY05_04.jsp">4. 切版範例(四)</a>
                                         </div>
                                 </li>
                         </ul>
